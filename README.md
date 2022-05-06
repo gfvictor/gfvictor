@@ -1,10 +1,14 @@
-Hey, my name is Victor Farias,
+Hey, my name is Victor Farias
 ==============================
 
 Web Developer (in training!)
 ---------------------------
 
-I've been learning to code, trying to change careers. Both Front-End and Back-End appeal very much to me, so I've decided that my goal is to be a Full Stack Developer Languages: • Portuguese (First Language) • English (Fluent in both social and professional areas) • Japanese (N4 Proficiency Level)
+I've been learning to code, trying to change careers. For now, Front-End seems more appealing to me, so I'm going for it.
+  
+Languages:<br> • Portuguese (First Language) <br>
+• English (Fluent in both social and professional areas) <br>
+• Japanese (N4 Proficiency Level)
 
 * 🌍  I'm based in Aichi, Japan
 * ✉️  You can contact me at [dev.vfarias@gmail.com](mailto:dev.vfarias@gmail.com)
