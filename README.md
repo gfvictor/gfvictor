@@ -13,12 +13,13 @@ Languages:<br> • Portuguese (First Language) <br>
 * 🌍  I'm based in Aichi, Japan
 * ✉️  You can contact me at [dev.vfarias@gmail.com](mailto:dev.vfarias@gmail.com)
 * 🚀  I'm currently working on [Forkify - Recipes Searching Engine](http://forkify-vfarias.netlify.app)
-* 🧠  I'm learning Node.js
+* 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on Front-End and Back-End, beginner projects
 
 ### Skills
 
 <p align="left">
+<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" width="36" alt="cplusplus logo" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
