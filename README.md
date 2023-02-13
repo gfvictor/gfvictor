@@ -4,7 +4,7 @@ Hey, my name is Victor Farias
 Web Developer (in training!)
 ---------------------------
 
-I've been learning to code, trying to change careers. For now, Front-End seems more appealing to me, so I'm going for it.
+I've been learning to code, trying to change careers. For now, Game Develop in C++ seems more appealing to me, so I'm going for it.
   
 Languages:<br> • Portuguese (First Language) <br>
 • English (Fluent in both social and professional areas) <br>
