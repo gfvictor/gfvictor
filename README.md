@@ -9,7 +9,7 @@ Languages:<br> • Portuguese (First Language) <br>
 
 * 🌍  I'm based in Aichi, Japan
 * ✉️  You can contact me at [dev.vfarias@gmail.com](mailto:dev.vfarias@gmail.com)
-* 🚀  I'm currently working on [Forkify - Recipes Searching Engine](http://forkify-vfarias.netlify.app)
+* 🚀  I'm currently working on [Forkify - Recipes Searching Engine](https://forkify-vgf.netlify.app/)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Front-End and Back-End, beginner projects
 
